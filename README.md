@@ -1,1 +1,1 @@
-# step-function-lambda-module
+Invoke Lambda from Step Functions
